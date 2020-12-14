@@ -1,0 +1,28 @@
+html{
+text-align: center;
+background-color: black;
+color: white;
+}
+
+button{
+ border: none;
+ height: 40px;
+ width: 50px;
+ border-radius: 10;
+}
+
+#minus1 {
+ background-color: #ff4a4a;
+}
+
+#minus5 {
+background-color: #c00000;
+}
+
+#more1 {
+ background-color:#37fd37 ;
+}
+
+#more5 {
+ background-color:#00ca00 ;
+}
